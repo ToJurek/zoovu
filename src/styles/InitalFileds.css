@@ -1,0 +1,25 @@
+.card {
+
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+
+}
+
+.cards {
+    height: 100%;
+    text-align: center;
+}
+
+div .col {
+    float: left;
+    width: 150px;
+    height: 150px;
+    position: relative;
+    flex: 50%;
+    margin: 20px;
+    border-radius: 28px;
+    border: solid;
+    border-color: #EAEAEA;
+    background: white;
+}

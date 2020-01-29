@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: url("../images/background-zoovu.svg");
+  width: 100vw;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: column;
+  box-sizing: border-box;
+  font-family: Campton, Arial, sans-serif;
+}
+
+@font-face {
+  font-family: 'Campton';
+  src: local('Campton'), url("../fonts/Campton/Campton-BoldDEMO.ttf") format('truetype');
+}
+
+@font-face {
+  font-family: 'Campton-Light';
+  src: local('Campton-Light'), url("../fonts/Campton/Campton-LightDEMO.ttf") format('truetype');
+}

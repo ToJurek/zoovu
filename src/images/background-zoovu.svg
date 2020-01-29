@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg id="master-artboard" viewBox="0 0 1920 1080" xmlns="http://www.w3.org/2000/svg" width="1920px" height="1080px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"><defs><linearGradient id="gradient-0" gradientUnits="userSpaceOnUse" x1="922.131591796875" y1="11.360533714294434" x2="922.131591796875" y2="1091.3604736328125" gradientTransform="matrix(0.9998956037436877, 0.014480596334008552, -0.014025406994830817, 0.9684431656975776, 15.403020085386459, 21.087154293514615)">
+                <stop offset="0" style="stop-color: #ffffff"/>
+                <stop offset="1" style="stop-color: rgb(248, 248, 248);"/>
+              </linearGradient><linearGradient id="gradient-1" gradientUnits="userSpaceOnUse" x1="960" y1="0" x2="960" y2="1080">
+                <stop offset="0" style="stop-color: rgb(255, 255, 255);"/>
+                <stop offset="1" style="stop-color: rgb(231, 231, 231);"/>
+              </linearGradient></defs><rect id="ee-background" x="0" y="0" width="1920" height="1080" style="fill: url('#gradient-1'); fill-opacity: 1; pointer-events: none;"/>
+ 
+ <metadata id="CorelCorpID_0Corel-Layer"/>
+<g transform="matrix(4.453287124633789, 0, 0, 4.453287124633789, -2343.0559479637204, 568.8000087229798)"><g id="g-1" transform="matrix(1, 0, 0, 1, 0, 0)">
+	<g id="g-2">
+		<path class="st0" d="M652,46c27.6,0,50,22.4,50,50s-22.4,50-50,50s-50-22.4-50-50S624.4,46,652,46z" style="fill: rgb(255, 255, 255);"/>
+	</g>
+</g></g><g transform="matrix(-3.7170605659484863, 3.2741501331329346, -3.2741501331329346, -3.7170605659484863, 2903.47844935734, 1449.7246358820635)"><g id="g-5" transform="matrix(1, 0, 0, 1, 0, 0)">
+	<g id="g-6">
+		<path class="st0" d="M103,336.5L53,424h100L103,336.5" style="fill: rgb(255, 255, 255);"/>
+	</g>
+</g></g><g transform="matrix(4.453287124633789, 0, 0, 4.453287124633789, -1970.5298249168459, 244.04774675623378)"><g id="g-3" transform="matrix(1, 0, 0, 1, 0, 0)">
+	<g id="g-4">
+		<path class="st0" d="M652,46c27.6,0,50,22.4,50,50s-22.4,50-50,50s-50-22.4-50-50S624.4,46,652,46z" style="fill: rgb(255, 255, 255);"/>
+	</g>
+</g></g><foreignObject class="multi-line-input__container" x="823.1947631835938" y="441" height="33" width="224" transform="matrix(1, 0, 0, 1, 666.485948628404, -374.898346103477)"><div xmlns="http://www.w3.org/1999/xhtml" class="multi-line-input" style="font-size: 24px; font-family: 'Open Sans', sans-serif; fill: rgb(51, 51, 51); white-space: pre; color: rgb(51, 51, 51); display: inline-block;"></div></foreignObject><g transform="matrix(2.1829447746276855, -1.9545382261276245, 1.9545382261276245, 2.1829447746276855, 1125.011962890625, 53.6534522132813)"><g id="g-7" transform="matrix(1, 0, 0, 1, 0, 0)">
+	<g id="g-8">
+		<path class="st0" d="M58,49h100v100H58V49z" style="fill: rgb(255, 255, 255);"/>
+	</g>
+</g></g><g transform="matrix(2.4916787147521973, -1.9422504901885989, 1.9422504901885989, 2.4916787147521973, -182.17283429845384, 1156.4943715120926)"><g id="g-11" transform="matrix(1, 0, 0, 1, 0, 0)">
+	<g id="g-12" transform="matrix(1, 5.551115123125783e-17, -5.551115123125783e-17, 1, 0.2084605848737624, 1.6822933988969453)">
+		<path class="st0" d="M652,46c27.6,0,50,22.4,50,50s-22.4,50-50,50s-50-22.4-50-50S624.4,46,652,46z" style="fill: rgb(255, 255, 255);"/>
+	</g>
+</g></g></svg>
