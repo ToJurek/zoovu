@@ -21,7 +21,8 @@ class ZoovuGame extends React.Component {
 
     render() {
         return (<div>
-            {this.state.renderGamePage ? <Game name={this.state.name} /> : <StartPage handleSubmit={this.handleSubmitInput}/> }
+            {this.state.renderGamePage ? <Game name={this.state.name}/> :
+                <StartPage handleSubmit={this.handleSubmitInput}/>}
         </div>)
     }
 }

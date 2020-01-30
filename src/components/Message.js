@@ -1,7 +1,7 @@
 import React from "react";
 import "../styles/Message.css"
 
-export default class Message extends React.Component{
+export default class Message extends React.Component {
 
     render() {
         setTimeout(() => {

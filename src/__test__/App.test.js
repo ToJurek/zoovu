@@ -1,0 +1,8 @@
+import React from 'react';
+import { render } from '@testing-library/react';
+import App from '../components/App';
+
+test('renders learn react link', () => {
+
+  expect(2+2).toEqual(4);
+});
