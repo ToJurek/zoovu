@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Draggable Component renders correctly 1`] = `
+<div
+  id="dragTest"
+  onDragOver={[Function]}
+  onDrop={[Function]}
+  style={
+    Object {
+      "background": "white",
+      "border": "solid #7A7A7A 2px",
+      "borderRadius": "28px",
+      "flex": "50%",
+      "float": "left",
+      "height": "150px",
+      "margin": "20px",
+      "position": "relative",
+      "width": "150px",
+    }
+  }
+>
+  <div
+    className="sc-AykKC gHzgee"
+  >
+    <img
+      id="itemID"
+      src={
+        Object {
+          "ReactComponent": Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "render": [Function],
+          },
+          "__esModule": true,
+          "default": "zoovu-z.svg",
+        }
+      }
+      startTimer={[Function]}
+    />
+  </div>
+</div>
+`;
